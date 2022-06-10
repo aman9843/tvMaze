@@ -1,4 +1,4 @@
-Deployment :https://determined-feynman-748737.netlify.app/
+Deployment :https://reactmovieseries.netlify.app/
 
 
 
